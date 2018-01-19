@@ -1,2 +1,5 @@
-# trademindx-discovery-service
-trademindx discovery service
+#trademindx discovery service
+
+Based on Netflix Eureka service registry. Essentially this implementation simply wraps a Spring Boot app around Eureka.
+
+mvn spring-boot:run
