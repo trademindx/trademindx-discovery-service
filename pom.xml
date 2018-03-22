@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.trademindx</groupId>
-    <artifactId>trademindx-discovery-service</artifactId>
+    <artifactId>trademindx-discovery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>trademindx-discovery-service</name>
-    <description>trademindx-discovery-service</description>
+    <name>trademindx-discovery</name>
+    <description>trademindx-discovery</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
