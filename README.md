@@ -1,4 +1,4 @@
-# Trademindx discovery service
+# trademindx-discovery
 
 Based on Netflix Eureka service registry.
 
