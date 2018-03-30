@@ -2,4 +2,7 @@
 
 Based on Netflix Eureka service registry. Essentially this implementation simply wraps a Spring Boot app around Eureka.
 
-mvn spring-boot:run
+Run:
+
+- mvn spring-boot:run
+- web ui: http://localhost:8761/
