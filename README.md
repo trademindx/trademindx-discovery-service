@@ -1,6 +1,9 @@
-#trademindx discovery service
+# Trademindx discovery service
 
-Based on Netflix Eureka service registry. Essentially this implementation simply wraps a Spring Boot app around Eureka.
+Based on Netflix Eureka service registry.
+
+Essentially this implementation wraps a Spring Boot app around Eureka and allows other Trademindx micro-services to
+register with Eureka and be discoverable.
 
 Run:
 
