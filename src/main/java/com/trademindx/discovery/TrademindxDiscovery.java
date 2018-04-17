@@ -6,8 +6,8 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 @EnableEurekaServer
 @SpringBootApplication
-public class TrademindxDiscoveryMain {
+public class TrademindxDiscovery {
     public static void main(String[] args) {
-        SpringApplication.run(TrademindxDiscoveryMain.class, args);
+        SpringApplication.run(TrademindxDiscovery.class, args);
     }
 }
